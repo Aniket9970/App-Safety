@@ -6,7 +6,6 @@ A comprehensive platform that helps gamers verify app authenticity, assess risks
 
 ### App Authenticity Checker
 - Real-time verification of gaming apps
-- Security certificate validation
 - Domain history analysis
 - Community reviews and ratings
 - Fraud detection system
