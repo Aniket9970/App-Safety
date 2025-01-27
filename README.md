@@ -39,6 +39,9 @@ A comprehensive platform that helps gamers verify app authenticity, assess risks
 ## Project Structure
 
 ## Getting Started
+Getting Started
 
-1. Clone the repository
-\`\`
+1. Clone the repository:
+2. Install dependencies:npm install
+3. Start the development server:npm run dev
+4. Open [http://localhost:5173](http://localhost:5173) in your browser
