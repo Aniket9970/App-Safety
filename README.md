@@ -35,10 +35,8 @@ A comprehensive platform that helps gamers verify app authenticity, assess risks
 - Local storage for data persistence
 - Vite for development
 
-## Project Structure
 
 ## Getting Started
-Getting Started
 
 1. Clone the repository:
 2. Install dependencies:npm install
